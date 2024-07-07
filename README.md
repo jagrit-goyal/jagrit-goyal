@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagrit Goyal</h1>
-<h3 align="center">a nerdy guy exploring tech stack</h3>
+<h3 align="center">CS student exploring tech stack</h3>
 <img align = "right" width = 400 alt ="coding" src ="https://www.google.com/search?q=a+mna+doing+coding&tbm=isch&ved=2ahUKEwjluvnP-7v_AhWThdgFHbecCmUQ2-cCegQIABAA&oq=a+mna+doing+coding&gs_lcp=CgNpbWcQAzoECCMQJzoHCCMQ6gIQJzoHCAAQigUQQzoICAAQgAQQsQM6BQgAEIAEOgoIABCKBRCxAxBDOgYIABAIEB46CQgAEBgQgAQQClDWBVioJWCHL2gBcAB4AYABtAOIAZsfkgEKMC4xMi42LjAuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=XyKGZKWPIZOL4t4Pt7mqqAY&bih=625&biw=1366&rlz=1C1VDKB_enIN1060IN1060#imgrc=aZ-JGTDI6G45IM&imgdii=6Dbe88Hv4twU9M">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagrit-goyal&label=Profile%20views&color=0e75b6&style=flat" alt="jagrit-goyal" /> </p>
