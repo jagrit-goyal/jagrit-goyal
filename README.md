@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagrit Goyal</h1>
 <h3 align="center">CS student exploring tech stack</h3>
-<img align = "right" width = 400 alt ="coding" src ="https://www.google.com/search?q=a+mna+doing+coding&tbm=isch&ved=2ahUKEwjluvnP-7v_AhWThdgFHbecCmUQ2-cCegQIABAA&oq=a+mna+doing+coding&gs_lcp=CgNpbWcQAzoECCMQJzoHCCMQ6gIQJzoHCAAQigUQQzoICAAQgAQQsQM6BQgAEIAEOgoIABCKBRCxAxBDOgYIABAIEB46CQgAEBgQgAQQClDWBVioJWCHL2gBcAB4AYABtAOIAZsfkgEKMC4xMi42LjAuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=XyKGZKWPIZOL4t4Pt7mqqAY&bih=625&biw=1366&rlz=1C1VDKB_enIN1060IN1060#imgrc=aZ-JGTDI6G45IM&imgdii=6Dbe88Hv4twU9M">
+<img align = "right" width = 400 alt ="coding" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibm.com%2Fblog%2Fannouncement%2Ftry-the-beta-version-for-generic-os-for-free%2F&psig=AOvVaw1M2unrP-GfYCHfNcPFHsMg&ust=1720680947782000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDN95nym4cDFQAAAAAdAAAAABAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagrit-goyal&label=Profile%20views&color=0e75b6&style=flat" alt="jagrit-goyal" /> </p>
 
