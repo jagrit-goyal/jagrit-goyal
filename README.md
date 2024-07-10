@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagrit Goyal</h1>
 <h3 align="center">CS student exploring tech stack</h3>
-<img align = "right" width = 400 alt ="coding" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibm.com%2Fblog%2Fannouncement%2Ftry-the-beta-version-for-generic-os-for-free%2F&psig=AOvVaw1M2unrP-GfYCHfNcPFHsMg&ust=1720680947782000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDN95nym4cDFQAAAAAdAAAAABAQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagrit-goyal&label=Profile%20views&color=0e75b6&style=flat" alt="jagrit-goyal" /> </p>
 
